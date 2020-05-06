@@ -42,4 +42,9 @@ footer{
         width: 61%;
     }
 }
+@media(max-width:375px){
+    #text-input{
+        width: 71%;
+    } 
+}
 
